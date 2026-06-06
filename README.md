@@ -93,7 +93,5 @@ Los CSV de los cuatro módulos se tratan como entradas congeladas del proyecto. 
 
 ## Git
 
-## Git
-
 El proyecto está preparado como repositorio Git, de forma que los cambios del código, el informe y las salidas puedan quedar registrados y revisarse de forma ordenada.
 
